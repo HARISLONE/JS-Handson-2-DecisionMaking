@@ -1,3 +1,10 @@
+h1{
+    display: inline-block;
+    border: 4px;
+    margin-left: 30%;
+    background-color: red;
+    color: snow;
+}
 .ques1{
     border: 4px dashed red;
     background-color: aqua;
